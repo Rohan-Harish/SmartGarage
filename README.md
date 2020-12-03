@@ -6,3 +6,6 @@ Add wireless connectivity to your garage door with ease. This project will inclu
 * Add Wireless Connectivity.
 * Use phone app to control garage.
 * Check Status (Open/Closed)
+
+## Dependencies:
+* ESP8266WiFi.h
